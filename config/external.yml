@@ -1,0 +1,5 @@
+AliOss:
+  OSSEndpoint: oss-cn-hangzhou.aliyuncs.com
+  OSSAccesskeyID: uqkwBS5uyptKZYKj
+  OSSAccessKeySecret: PAPIAD9YejXYBFsW49khODDThdWKfb
+  Bucket: rccfiles
